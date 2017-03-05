@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5F5BE125-962E-46B9-9D00-91491CA3ABC0}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="eHarmony/Tests.cs">
+    <Files>
+      <File FileName="eHarmony/Tests.cs" Line="43" Column="1" />
+      <File FileName="eHarmony/AppInitializer.cs" Line="34" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="eHarmony" expanded="True">
+            <Node name="eHarmony" expanded="True">
+              <Node name="eHarmony" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="Repl" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.eHarmony PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
